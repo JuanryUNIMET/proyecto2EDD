@@ -16,3 +16,5 @@ El programa inicia en la carga del archivo csv, puede ir directamente el menu pr
 Podemos crear un usuario, eliminarlo, definir su prioridad, añadirle documentos, eliminar los documentos, mandarlos a la cola de impresion, asi como eliminarlos tambien e imprimirlos.
 
 Para cualquier duda, no dude en contactarnos!
+
+Proyecto2EDD es otro readme que cree sin querer
