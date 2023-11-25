@@ -125,7 +125,7 @@ public class LeerCSV extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        String SEPARADOR = ",";
+        String SEPARADOR = ";";
         BufferedReader bufferLectura = null;
         try {
             // Abrir el .csv en buffer de lectura
